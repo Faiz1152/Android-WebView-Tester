@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView Tester</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="go">Go</string>
+    <string name="url_hint">Search or type URL</string>
+</resources>
