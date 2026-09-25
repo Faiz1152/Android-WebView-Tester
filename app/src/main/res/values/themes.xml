@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.WebViewTester" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#F1F1F1</item>
+        <item name="colorPrimaryDark">#E0E0E0</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
